@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> The University Of Cambodia </title>
-<link rel="icon" type="icon2.jpg" href="icon2.jpg">
-<style>
+
 ul {
 background-color:Darkblue;
   list-style-type: none;
